@@ -1,23 +1,23 @@
 return {
     illegalActions = {
         storerobbery = {
-            minimumPolice = 2,
+            minimumPolice = 0,
             label = 'Store Robbery',
         },
         bankrobbery = {
-            minimumPolice = 3,
+            minimumPolice = 0,
             label = 'Bank Robbery'
         },
         jewellery = {
-            minimumPolice = 2,
+            minimumPolice = 0,
             label = 'Jewelry'
         },
         pacific = {
-            minimumPolice = 5,
+            minimumPolice = 0,
             label = 'Pacific Bank'
         },
         paleto = {
-            minimumPolice = 4,
+            minimumPolice = 0,
             label = 'Paleto Bay Bank'
         }
     }
